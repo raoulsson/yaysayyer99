@@ -227,8 +227,8 @@
     "SpeedSearch.foreground" : "#cccccc",
 
 
-    "SearchMatch.startBackground" : "#ff9f1c",
-    "SearchMatch.endBackground": "#ff9f1C",
+    "SearchMatch.startBackground" : "#7a736c",
+    "SearchMatch.endBackground": "#7a736c",
 
     "SearchEverywhere.Header.background" : "#b59e7a",
     "SearchEverywhere.List.separatorColor" : "#b59e7a",
