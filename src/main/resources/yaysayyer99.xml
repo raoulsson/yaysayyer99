@@ -295,17 +295,17 @@
         </option>
         <option name="KOTLIN_SMART_CAST_RECEIVER">
             <value>
-                <option name="FOREGROUND" value="ff0000" />
+                <option name="FOREGROUND" value="4d6593" />
             </value>
         </option>
         <option name="KOTLIN_SMART_CAST_VALUE">
             <value>
-                <option name="FOREGROUND" value="ff0000" />
+                <option name="FOREGROUND" value="4d6593" />
             </value>
         </option>
         <option name="KOTLIN_SMART_CONSTANT">
             <value>
-                <option name="FOREGROUND" value="ff0000" />
+                <option name="FOREGROUND" value="4d6593" />
             </value>
         </option>
         <option name="KOTLIN_TYPE_PARAMETER" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
