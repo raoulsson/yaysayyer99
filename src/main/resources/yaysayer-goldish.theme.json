@@ -86,7 +86,7 @@
     "EditorPane.background" : "#0C141F",
     "EditorPane.foreground" : "#cccccc",
     "EditorPane.inactiveBackground" : "#0C141F",
-    "EditorPane.selectionForeground" : "#ffffff",
+    "EditorPane.selectionForeground" : "#db57c0",
 
     "Editor.foreground" : "#bdb395",
     "Editor.background" : "#042327",
@@ -123,7 +123,7 @@
 
     "List.dropLineColor": "#b59e7a",
     "List.selectionInactiveForeground" : "#042327",
-    "List.selectionForeground": "#e74fc7",
+    "List.selectionForeground": "#fffc56",
     "List.foreground": "#cccccc",
     "List.selectionInactiveBackground" : "#b59e7aa4",
     "List.selectionBackground" : "#b59e7aa4",
@@ -144,7 +144,7 @@
     "MenuItem.disabledForeground" : "#6A7071",
     "MenuItem.foreground" : "#cccccc",
     "MenuItem.selectionBackground" : "#b59e7a",
-    "MenuItem.selectionForeground" : "#db51be",
+    "MenuItem.selectionForeground" : "#ecce39",
 
     "NavBar.borderColor" : "#b59e7a",
 
