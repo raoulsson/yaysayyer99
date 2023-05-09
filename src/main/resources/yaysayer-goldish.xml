@@ -1,4 +1,4 @@
-<scheme name="yaysayyer99" version="1" parent_scheme="Darcula">
+<scheme name="yaysayer-goldish" version="1" parent_scheme="Darcula">
     <metaInfo>
         <property name="created">2020-02-20T12:00:00</property>
         <property name="ide">idea</property>
@@ -6,11 +6,11 @@
 
     <font>
         <option name="EDITOR_FONT_NAME" value="Jet Brains Mono" />
-        <option name="EDITOR_FONT_SIZE" value="14" />
+        <option name="EDITOR_FONT_SIZE" value="13" />
     </font>
     <font>
         <option name="EDITOR_FONT_NAME" value="Jet Brains Mono" />
-        <option name="EDITOR_FONT_SIZE" value="14" />
+        <option name="EDITOR_FONT_SIZE" value="13" />
     </font>
     <console-font>
         <option name="EDITOR_FONT_NAME" value="Jet Brains Mono" />

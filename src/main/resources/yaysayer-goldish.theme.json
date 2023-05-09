@@ -1,8 +1,8 @@
 {
-  "name": "Yaysayer9",
+  "name": "yaysayer-goldish",
   "dark": true,
   "author": "via David Freer",
-  "editorScheme": "/yaysayyer99.xml",
+  "editorScheme": "/yaysayer-goldish.xml",
   "ui": {
     "ActionButton.hoverBorderColor" : "#b59e7a",
 
@@ -95,7 +95,7 @@
     "EditorTabs.inactiveMaskColor" : "#042327",
     "EditorTabs.selectedBackground" : "#b59e7a",
     "EditorTabs.selectedForeground" : "#b08162",
-    "EditorTabs.underlineColor" : "#ffffff",
+    "EditorTabs.underlineColor" : "#ef28c3",
 
     "FileColor.Orange" : "#b08162",
     "FileColor.Blue" : "#4d6593",
@@ -123,7 +123,7 @@
 
     "List.dropLineColor": "#b59e7a",
     "List.selectionInactiveForeground" : "#042327",
-    "List.selectionForeground": "#FFFFFF",
+    "List.selectionForeground": "#e74fc7",
     "List.foreground": "#cccccc",
     "List.selectionInactiveBackground" : "#b59e7aa4",
     "List.selectionBackground" : "#b59e7aa4",
@@ -144,7 +144,7 @@
     "MenuItem.disabledForeground" : "#6A7071",
     "MenuItem.foreground" : "#cccccc",
     "MenuItem.selectionBackground" : "#b59e7a",
-    "MenuItem.selectionForeground" : "#FFFFFF",
+    "MenuItem.selectionForeground" : "#db51be",
 
     "NavBar.borderColor" : "#b59e7a",
 
@@ -157,14 +157,14 @@
     "Notification.MoreButton.foreground" : "#ffffff",
 
     "Notification.ToolWindow.informativeBackground" : "#6495ed",
-    "Notification.ToolWindow.informativeForeground" : "#ffffff",
+    "Notification.ToolWindow.informativeForeground" : "#d0baba",
     "Notification.ToolWindow.informativeBorderColor" : "#FFFFFF",
     "Notification.ToolWindow.errorBackground" : "#ff0000",
-    "Notification.ToolWindow.errorForeground" : "#ffffff",
+    "Notification.ToolWindow.errorForeground" : "#dca7a7",
     "Notification.ToolWindow.warningBackground" : "#e3c567",
     "Notification.ToolWindow.warningForeground" : "#042327",
     "Notification.ToolWindow.warningBorderColor" : "#FFFFFF",
-    "Notification.ToolWindow.errorBorderColor" : "#FFFFFF",
+    "Notification.ToolWindow.errorBorderColor" : "#a52a2a",
 
     "OptionPane.background" : "#0C141F",
 

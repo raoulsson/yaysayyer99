@@ -1,1 +1,1 @@
-rootProject.name = "yaysayyer99-theme"
+rootProject.name = "yaysayer-goldish-theme"
