@@ -3,6 +3,9 @@
 # IntelliJ Platform Plugin Template Changelog
 
 ## [Unreleased]
+
+## [1.0.3] - 2023-08-10
+
 ### Changed
 - GitHub Actions - use `GITHUB_OUTPUT` environment file instead of `::set-output`.
 - Upgrade Gradle Wrapper to `7.6`
@@ -400,12 +403,13 @@
 - GitHub Actions to automate testing and deployment
 - Kotlin support
 
-[Unreleased]: https://github.com/JetBrains/intellij-platform-plugin-template/compare/v1.3.0...HEAD
-[1.2.0]: https://github.com/JetBrains/intellij-platform-plugin-template/compare/v1.2.0...v1.3.0
+[Unreleased]: null/compare/v1.0.3...HEAD
+[1.3.0]: null/compare/v1.2.0...v1.3.0
 [1.2.0]: https://github.com/JetBrains/intellij-platform-plugin-template/compare/v1.1.2...v1.2.0
 [1.1.2]: https://github.com/JetBrains/intellij-platform-plugin-template/compare/v1.1.1...v1.1.2
 [1.1.1]: https://github.com/JetBrains/intellij-platform-plugin-template/compare/v1.1.0...v1.1.1
 [1.1.0]: https://github.com/JetBrains/intellij-platform-plugin-template/compare/v1.0.0...v1.1.0
+[1.0.3]: null/compare/v1.3.0...v1.0.3
 [1.0.0]: https://github.com/JetBrains/intellij-platform-plugin-template/compare/v0.10.1...v1.0.0
 [0.10.1]: https://github.com/JetBrains/intellij-platform-plugin-template/compare/v0.10.0...v0.10.1
 [0.10.0]: https://github.com/JetBrains/intellij-platform-plugin-template/compare/v0.9.0...v0.10.0
