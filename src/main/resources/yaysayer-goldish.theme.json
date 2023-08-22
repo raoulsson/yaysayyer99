@@ -64,7 +64,7 @@
     "Component.disabledBorderColor" : "#b59e7aa4",
     "Component.borderColor" : "#b59e7a",
     "Component.focusColor" : "#b59e7a",
-    "Component.errorFocusColor" : "#ed6a5a",
+    "Component.errorFocusColor" : "#ede15a",
     "Component.inactiveErrorFocusColor" : "#ed6a5a99",
     "Component.iconColor" : "#b59e7a",
     "Component.hoverIconColor" : "#b59e7aa4",
@@ -116,7 +116,7 @@
     "HelpTooltip.foreground": "#cccccc",
     "HelpTooltip.shortcutForeground" : "#6A7071",
 
-    "Label.errorForeground" : "#ed6a5a",
+    "Label.errorForeground" : "#edd55a",
     "Label.infoForeground" : "#7e8485",
     "Label.selectedForeground" : "#042327",
     "Label.disabledForeground" : "#6A7071",
@@ -159,12 +159,12 @@
     "Notification.ToolWindow.informativeBackground" : "#6495ed",
     "Notification.ToolWindow.informativeForeground" : "#d0baba",
     "Notification.ToolWindow.informativeBorderColor" : "#FFFFFF",
-    "Notification.ToolWindow.errorBackground" : "#ff0000",
+    "Notification.ToolWindow.errorBackground" : "#dd00ff",
     "Notification.ToolWindow.errorForeground" : "#dca7a7",
     "Notification.ToolWindow.warningBackground" : "#e3c567",
     "Notification.ToolWindow.warningForeground" : "#042327",
     "Notification.ToolWindow.warningBorderColor" : "#FFFFFF",
-    "Notification.ToolWindow.errorBorderColor" : "#a52a2a",
+    "Notification.ToolWindow.errorBorderColor" : "#ecdc2e",
 
     "OptionPane.background" : "#0C141F",
 
@@ -223,7 +223,7 @@
 
     "SpeedSearch.background" : "#2A343E",
     "SpeedSearch.borderColor" : "#b59e7a",
-    "SpeedSearch.errorForeground" : "#ed6a5a",
+    "SpeedSearch.errorForeground" : "#5ad2ed",
     "SpeedSearch.foreground" : "#cccccc",
 
 
@@ -310,9 +310,9 @@
       "Actions.Green": "#26c485",
       "Actions.Blue": "#00a7e1",
       "Objects.Blue": "#00a7e1",
-      "Objects.Red": "#ff0000",
+      "Objects.Red": "#cb6b6b",
       "Objects.Green": "#26c485",
-      "Objects.Pink": "#ed217c",
+      "Objects.Pink": "#fd77b4",
       "Objects.YellowDark": "#E3C567",
       "Objects.Purple": "#7a82ab"
     }
